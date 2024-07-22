@@ -64,13 +64,13 @@
             "#ffffff"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#ffffff"
+            "#D0D3D4"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "ffffff"
+            "D0D3D4"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#ffffff"
+            "#D0D3D4"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "ffffff"
@@ -100,10 +100,10 @@
             "#000000"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#000000"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#000000"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
