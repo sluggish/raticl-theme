@@ -18,19 +18,19 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#A07D6C"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#EFDFD7"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#957261"
+            "#ffffff"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -45,7 +45,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -64,13 +64,13 @@
             "#ffffff"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
+            "#ffffff"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3a2c26"
+            "FF0000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#372d2b"
+            "#FF0000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "503E38"
