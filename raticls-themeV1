@@ -9,7 +9,7 @@
 ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#000000"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
             "#000000"
@@ -24,13 +24,13 @@
             "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
-            "#ffffff"
+            "#B3B6B7"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#D0D3D4"
         ],
         "INTERACTIVE_MUTED": [
-            "#ffffff"
+            "#B3B6B7"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -48,7 +48,7 @@
             "#ffffff"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#D0D3D4"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -57,23 +57,23 @@
             "#0000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "000000"
+            "#000000"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffffff"
+            "#D0D3D4"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#D0D3D4"
+            "#5D6D7E"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "D0D3D4"
+            "5D6D7E"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D0D3D4"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "ffffff"
+            "000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#FFFFFF"
@@ -91,13 +91,13 @@
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffff"
+            "#000000"
         ],
         "TEXT_LINK": [
             "#000000"
         ],
         "TEXT_DANGER": [
-            "#000000"
+            "#1A0000"
         ],
         "KEYBOARD": [
             "#000000"
