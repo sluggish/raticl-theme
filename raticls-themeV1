@@ -3,20 +3,20 @@
   "description": "A Theme That Improves Discord's appearance made by Raticl",
   "authors": [
     {
-      "name": "Vodka Martini",
-      "id": "1068030255455015013"
+      "name": "ratic1",
+      "id": "1020047647056347217"
     }
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+    "HEADER_PRIMARY": ["#000000", "#000000", "#000000"]
   },
   "rawColors": {
-    "PRIMARY_500": "#9E8376"
+    "PRIMARY_500": "#000000"
   },
   "background": {
-    "blur": 0.6,
-    "url": "82ef73f876a5ef467a8263b694e4f0b8.jpg",
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/1007746737525510234/1262527892470894652/61fc98e585031f867e9c084423d545a6.png?ex=669f7dfa&is=669e2c7a&hm=c7ec54a51aed4e5cc0b21f3800b2f65d83c7bf963e41fa2687205723258b9c58&=&quality=lossless",
     "alpha": 0.4
   }
 }
