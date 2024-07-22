@@ -1,21 +1,21 @@
 {
-  "name": "Lavender Heaven",
-  "description": "A theme made by Vodka",
-  "authors": [
+  "name": "Raticl's BetterDiscord",
+  "description": "A Theme That Improves Discord's appearance made by Raticl",
+  "authors": "raticl/raticlfn/radical"
     {
-      "name": "Vodka Martini",
-      "id": "1068030255455015013"
+      "name": "ratic1",
+      "id": "1020047647056347217"
     }
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#EFDFD7", "#E7D6CE", "#A07D6C"]
+    "HEADER_PRIMARY": ["#000000", "#000000", "#000000"]
   },
   "rawColors": {
-    "PRIMARY_500": "#9E8376"
+    "PRIMARY_500": "#000000"
   },
   "background": {
-    "blur": 0.6,
+    "blur": 0.1,
     "url": "82ef73f876a5ef467a8263b694e4f0b8.jpg",
     "alpha": 0.4
   }
