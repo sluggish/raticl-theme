@@ -82,7 +82,7 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#ffffff"
+            "#000000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#ffffff"
