@@ -24,10 +24,10 @@
             "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
-            "#D0D3D4"
+            "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "##BDC3C7"
+            "#BDC3C7"
         ],
         "INTERACTIVE_MUTED": [
             "#B3B6B7"
