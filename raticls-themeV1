@@ -54,7 +54,7 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0000000"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
@@ -97,7 +97,7 @@
             "#000000"
         ],
         "TEXT_DANGER": [
-            "#1A0000"
+            "#FF0000"
         ],
         "KEYBOARD": [
             "#000000"
