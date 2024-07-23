@@ -27,7 +27,7 @@
             "#D0D3D4"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000"
+            "##BDC3C7"
         ],
         "INTERACTIVE_MUTED": [
             "#B3B6B7"
