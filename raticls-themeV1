@@ -27,7 +27,7 @@
             "#D0D3D4"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#B3B6B7"
+            "#000000"
         ],
         "INTERACTIVE_MUTED": [
             "#B3B6B7"
@@ -94,7 +94,7 @@
             "#000000"
         ],
         "TEXT_LINK": [
-            "#000000"
+            "#ffffff"
         ],
         "TEXT_DANGER": [
             "#FF0000"
