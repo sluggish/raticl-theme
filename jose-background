@@ -1,0 +1,139 @@
+{
+  "name": "Raticl's BetterDiscord",
+  "description": "A Theme That Improves Discord's appearance made by Raticl",
+  "authors": [
+    {
+      "name": "ratic1",
+      "id": "1020047647056347217"
+    }
+],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ffffff"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#000000"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#F2F3F4"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#F2F3F4"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "000000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#000000"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#000000"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000000"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#000000"
+        ],
+        "TEXT_LINK": [
+            "#ffffff"
+        ],
+        "TEXT_DANGER": [
+            "#FF0000"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#000000"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#000000",
+        "PRIMARY_100": "#000000",
+        "PRIMARY_200": "#000000",
+        "PRIMARY_300": "#000000",
+        "PRIMARY_360": "#000000",
+        "PRIMARY_400": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#000000",
+        "BRAND_360": "#000000",
+        "BRAND_500": "#000000",
+        "BRAND_560": "#000000",
+        "YELLOW_300": "#957261",
+        "GREEN_600": "#EFDFD7",
+        "RED_400": "#FF3333",
+        "WHITE_500": "#EFDFD7",
+        "GREEN_360": "#503E38"
+    },
+  "background": {
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/1007746737525510234/1265138378782015519/IMG_6331.png?ex=66a06b6e&is=669f19ee&hm=35c2ec97def9583311c3b5c25ac3d29f98a4acbdced667077225e00cdf2553bd&=&quality=lossless",
+    "alpha": 0.4
+  }
+}
