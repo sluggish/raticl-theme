@@ -12,7 +12,7 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#000000"
+            "#ffffff"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF"
@@ -27,19 +27,19 @@
             "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#BDC3C7"
+            "#000000"
         ],
         "INTERACTIVE_MUTED": [
-            "#B3B6B7"
+            "#000000"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
