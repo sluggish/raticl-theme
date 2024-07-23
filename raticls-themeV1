@@ -76,7 +76,7 @@
             "000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#FFFFFF"
+            "#000000"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -85,7 +85,7 @@
             "#000000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#ffffff"
+            "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#000000"
